@@ -6,6 +6,7 @@ A passionate frontend developer
 
 * 🌍  I'm based in chattogram, bangladesh
 * 🧠  I'm learning React
+* 💬 Ask me about **React, Font-End Developement**
 
 
 ### Skills
