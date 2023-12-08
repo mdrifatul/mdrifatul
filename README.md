@@ -7,8 +7,6 @@ A passionate frontend developer
 * 🌍  I'm based in chattogram, bangladesh
 * 🧠  I'm learning React
 
-<a href="https://www.github.com/mdrifatul" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mdrifatul?logo=github&style=for-the-badge&color=3382ed&labelColor=27272a" /></a>
 
 ### Skills
 
@@ -21,8 +19,6 @@ src="https://img.shields.io/github/followers/mdrifatul?logo=github&style=for-the
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/rifatul_islam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/mdrifatul" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/md-rifatul-islam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
 
 <b>My GitHub Stats</b>
 
