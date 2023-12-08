@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Rifatul Islam</h1>
 <h3 align="center">Passionate frontend developer crafting engaging user experiences innovatively.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrifatul&label=Profile%20views&color=0e75b6&style=flat" alt="mdrifatul" /> </p>
-
 - 🔭 I’m currently working on **ChallengeForge**
 
 - 🌱 I’m currently learning **React**
