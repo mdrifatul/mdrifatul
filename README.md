@@ -26,6 +26,4 @@ src="https://img.shields.io/github/followers/mdrifatul?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mdrifatul"><img src="https://github-readme-stats.vercel.app/api?username=mdrifatul&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=3382ed&bg_color=27272a&hide_border=true&show_icons=true" alt="mdrifatul's GitHub stats" /></a>
-
 <a href="http://www.github.com/mdrifatul"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdrifatul&stroke=14b8a6&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
