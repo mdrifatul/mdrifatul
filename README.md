@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohammed Rifatul Islam</h1>
-<h3 align="center">Passionate frontend developer crafting engaging user experiences innovatively.</h3>
 
 - 🔭 I’m currently working on **ChallengeForge**
 
