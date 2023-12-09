@@ -6,7 +6,8 @@
 * 💬 Ask me about **React, Font-End Developement**
 
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
+
 <p align="center">
 <a href="http://www.github.com/mdrifatul"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdrifatul&stroke=14b8a6&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
