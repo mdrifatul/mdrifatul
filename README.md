@@ -1,8 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Rifatul Islam
-==============================================================================================================================================
+![logo](https://github.com/mdrifatul/mdrifatul/blob/main/Neon%20Green%20Gaming%20Channel%20YouTube%20Banner.png)
 
-A passionate frontend developer
--------------------------------
 
 * 🌍  I'm based in chattogram, bangladesh
 * 🧠  I'm learning React
