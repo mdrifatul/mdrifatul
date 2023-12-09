@@ -1,5 +1,4 @@
-![logo](https://github.com/mdrifatul/mdrifatul/blob/main/Neon%20Green%20Gaming%20Channel%20YouTube%20Banner%20(1).png)
-
+![logo](https://github.com/mdrifatul/mdrifatul/blob/main/banner.png)
 ### 👀 Current overview
 
 * 🌍  I'm based in chattogram, bangladesh
