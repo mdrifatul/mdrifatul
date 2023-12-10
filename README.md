@@ -1,9 +1,9 @@
 ![logo](https://github.com/mdrifatul/mdrifatul/blob/main/banner.png)
 ### 👀 Current overview
 
-* 🌍  I'm based in chattogram, bangladesh
-* 🧠  I'm learning React
-* 💬 Ask me about **React, Font-End Developement**
+* 🌍  I'm based in chattogram, Bangladesh
+* 🧠  I'm learning NextJs
+* 💬 Ask me about **React, Font-End Development**
 
 
 ### 📈 My GitHub Stats
