@@ -3,7 +3,7 @@
 
 * 🌍  I'm based in chattogram, Bangladesh
 * 🧠  I'm learning NextJs
-* 💬 Ask me about **React, Font-End Development**
+* 💬 Ask me about **NextJs, Full Stack Development**
 
 
 ### 📈 My GitHub Stats
