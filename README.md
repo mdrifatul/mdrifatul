@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/mdrifatul/mdrifatul/blob/main/banner.png" alt="Banner" width="100%" />
-</div>
-
 ## 👋 About Me
 
 <p align="center">
