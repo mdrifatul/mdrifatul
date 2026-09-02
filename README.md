@@ -17,7 +17,12 @@
 </p>
 
 ## 🛠️ Technical Skills
+<div align="center">
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,js,go,rust,cs,react,nodejs,fastapi,dotnet,postgres,mongodb,docker,linux,pytorch,tensorflow&theme=dark&perline=8" />
+</a>
+</div>
 <p align="center">
   <strong>Frontend & Full Stack</strong><br />
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
